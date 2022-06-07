@@ -1,4 +1,3 @@
-﻿-- oracle SCOTT/TIGER
 --17.PLSqlFunction.sql
 
 /*
