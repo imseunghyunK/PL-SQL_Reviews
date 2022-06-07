@@ -99,7 +99,6 @@ SELECT user_fun(7369) FROM dual;
 
 
 
-
 --2.? %type 사용해서 사원명으로 해당 사원의 직무(job) 반환하는 함수 
 -- 함수명 : emp_job
 CREATE OR REPLACE FUNCTION emp_job(v_ename emp.ENAME%type)
